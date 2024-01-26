@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+
+  .code {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    margin-left: 100px;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .code div {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: #ffffffe3;
+    border: 1px solid black;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 1ms;
+  }
+
+.code div:hover{
+    background: var(--clr);
+    box-shadow: 0 0 10px var(--clr),
+                0 0 30px var(--fdd),
+                0 0 60px var(--clr),
+                0 0 100px var(--clr);
+}
+  .code div:nth-child(1) { top: 0; left: 0; }
+  .code div:nth-child(2) { top: 0; left: 50%; }
+  .code div:nth-child(3) { top: 50%; left: 0; }
+  .code div:nth-child(4) { top: 50%; left: 50%; }
+
+.digitalimg{
+    justify-content: left;
+    --clr:#8B008B;--1:0;
+}
+
+.digitalimg a{
+    color:black;
+    transition: color 0.3ms; 
+}
+
+.digitalimg:hover a{
+    color:#fff;
+}
+
+.digitalimg :hover{
+color:#fff;
+}
+
+.designimg{
+    --clr:#FFCD05;--1:0;
+}
+.designimg a{
+    color:black;
+    transition: color 0.3ms; 
+}
+
+.designimg:hover a{
+    color:#fff;
+}
+
+.programmingimg {
+    --clr:#2382C8;--1:0;
+}
+
+.programmingimg a{
+    color:black;
+    transition: color 0.3ms;
+}
+
+.programmingimg:hover a{
+    color:#fff;
+}
+
+.systemimg{
+    --clr:#00B45A;--1:0;
+}
+
+.systemimg a{
+    color:black;
+    transition: color 0.3ms;
+}
+
+.systemimg:hover a{
+    color:#fff;
+}
+
+.title1{
+    position: relative;
+    bottom:240px;
+    margin-left: -80px;
+    font-size: 55px;
+}
+
+.title2{
+    position: relative;
+    bottom:200px;
+    margin-left: -135px;
+    color:gray;
+    font-size: 44px;
+}
+
+.line{
+    margin-left: -140px;
+    position: relative;
+    bottom:120px;
+}
+
+.text {
+    margin-left: -110px;
+    position: relative;
+    top:-60px;
+    padding-left: -200px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.digitalmarketinq{
+    margin-top: 60px;
+    margin-left: -90px;
+    font-weight: bolder;
+    color:black;
+    font-size: 22px;
+    font-family: "Visby CF", Sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    top:74px;
+}
+
+.design{
+    margin-top: 50px;
+    margin-left: -90px;
+    font-weight: bolder;
+    font-size: 24px;
+    font-family: "Visby CF", Sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    top:75px;
+    color:black;
+}
+
+.program {
+    margin-top: 50px;
+    margin-left: 15px;
+    font-weight: bolder;
+    font-size: 24px;
+    font-family: "Visby CF", Sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    top:50px;
+    color:black;
+}
+
+.system{
+    margin-top: 50px;
+    margin-left: -92px;
+    font-weight: bolder;
+    font-size: 24px;
+    font-family: "Visby CF", Sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    top:77px;
+    color:black;
+}
+.code div {
+    padding: -20px 20px;
+    font-size: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+
+.code div:hover {
+    transform: scale(1.1); 
+  }

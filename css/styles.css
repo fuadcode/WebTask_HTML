@@ -1,0 +1,60 @@
+.loginbanner{
+  width: 35%;
+  margin-left: 450px;
+}
+
+.email {
+    margin-left: 555px;
+    font: inherit;
+    padding: 10px 16px 10px 16px;
+    height: 20px;
+    font-size: 1.600rem;
+    position: relative;
+    bottom:50px
+}
+
+.password{
+    margin-left: 555px;
+    font: inherit;
+    padding: 10px 16px 10px 16px;
+    height: 20px;
+    font-size: 1.600rem;
+    position: relative;
+    bottom:50px
+}
+
+.title {
+    margin-left: 645px;
+    font-weight: bolder;
+}
+
+.title1{
+    margin-left: 750px;
+    position: relative;
+    bottom:46px;
+    color:gray;
+}
+
+.button {
+    width: 50%;
+    color: #fff;
+    background-color: blue;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    border: none rgba(0, 0, 0, 0);
+    line-height: normal;
+    font-size: 20px;
+    width: 345px;
+    line-height: 22px;
+    margin-left: 555px;
+    cursor: pointer;
+    position: relative;
+    bottom:50px
+}
+
+.link{
+    margin-left: 550px;
+    font-size: 14.8px;
+    position: relative;
+    bottom:50px
+}

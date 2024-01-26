@@ -1,0 +1,166 @@
+.layihebanner{
+    margin-left: 200px;
+    width: 14%;
+    top: calc(50% + 1px);
+    margin-top: 80px;  
+}
+.title1{
+    margin-left: 450px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 235px;
+    font-weight: bold;  
+}
+.title2{
+    margin-left: 450px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 180px;
+    font-weight: bold;
+}
+.title3{
+    margin-left: 1050px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 220px;
+    font-weight: bold;
+}
+.title4 {
+    margin-left: 1050px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 540px;
+    font-weight: bold;
+}
+.akademikbanner{
+    margin-left: 200px;
+    top: calc(50% + 1px);
+    margin-top: -5px;
+    height: 150%;
+    width:  14%;
+    position: relative;
+    bottom: -20px;
+
+}
+.text2{
+    margin-left: 450px;
+    font-family: var(--e-global-typography-b04e6b4-font-family), Sans-serif;
+    font-weight: 400;
+    position: relative;
+    bottom: 245px;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+} 
+.text1{
+    margin-left: 450px;
+    font-family: var(--e-global-typography-b04e6b4-font-family), Sans-serif;
+    font-weight: 400;
+    position: relative;
+    bottom: 235px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+} 
+
+.text3 {
+    margin-left: -887px;
+    font-family: var(--e-global-typography-b04e6b4-font-family), Sans-serif;
+    font-weight: 400;
+    position: relative;
+    bottom: 235px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-left: 1400px;
+}
+.text4 {
+    margin-left: -887px;
+    font-family: var(--e-global-typography-b04e6b4-font-family), Sans-serif;
+    font-weight: 400;
+    position: relative;
+    top: 1000px;
+    position: absolute;
+    top: 63%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-left: 1400px;
+}
+.etrafli1{
+    margin-left: 1050px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 150px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.etrafli2{
+    margin-left: 1050px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 420px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.etrafli3 {
+    margin-left: 450px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 110px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.etrafli4{
+    margin-left: -50px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 400px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.mentorbanner{
+    margin-left: 200px;
+    width: 14%;
+    top: calc(50% + 1px);
+    margin-left: 1100px;
+    margin-bottom: 1000px;
+    position: absolute;
+    left: calc(-20% + 1px);
+    height: auto;
+    bottom: 20px;
+    left: -300px;
+ 
+}
+
+.praktikidersbanner{
+    margin-left: 200px;
+    width: 14%;
+    top: calc(50% + 1px);
+    margin-left: 1100px;
+    margin-bottom: 1000px;
+    position: absolute;
+    left: calc(-20% + 1px);
+    height: auto;
+    top: 85px;
+    left: -300px;
+}
